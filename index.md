@@ -10,27 +10,28 @@ There is strong interest in leveraging reinforcement learning (RL) for informati
 Our repository can be found at [rl-starterpack](https://github.com/RL-Starterpack/rl-starterpack/).
 
 __TODO: Fill in links__
+
 Quicklinks:
 * Slides
 * RL Basics Exercise
-* DQN Exercise
+* [DQN Exercise](https://github.com/RL-Starterpack/rl-starterpack/blob/main/exercises/RL_Tutorial_DQN.ipynb)
 * Policy Gradient Exercise
 
 ## Schedule
 All times are UK times (GMT).
 
-09:30-10:30	RL Basics and Tabular Q-Learning
-10:30-10:45	Coffee Break
-10:45-11:45	Deep Q-Network (DQN)
-11:45-12:00	Coffee Break
-12:00-12:30	IR applications using DQN
-12:30-14:00	Lunch Break
-14:00-15:00	Policy Gradient (REINFORCE)
-15:00-15:15	Coffee Break
-15:15-15:45	Actor Critic
-15:45-16:00	Coffee Break
-16:00-17:00	IR applications using REINFORCE
-17:00-17:15	Outlook
+* 09:30-10:30	RL Basics and Tabular Q-Learning
+* 10:30-10:45	Coffee Break
+* 10:45-11:45	Deep Q-Network (DQN)
+* 11:45-12:00	Coffee Break
+* 12:00-12:30	IR applications using DQN
+* 12:30-14:00	Lunch Break
+* 14:00-15:00	Policy Gradient (REINFORCE)
+* 15:00-15:15	Coffee Break
+* 15:15-15:45	Actor Critic
+* 15:45-16:00	Coffee Break
+* 16:00-17:00	IR applications using REINFORCE
+* 17:00-17:15	Outlook
 
 ## Contact
 
