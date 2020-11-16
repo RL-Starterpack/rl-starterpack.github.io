@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Authors
+Alexander Kuhnle, Miguel Aroca-Ouellette, John Reid, Dell Zhang (Blue Prism AI Labs)
 
-You can use the [editor on GitHub](https://github.com/RL-Starterpack/rl-starterpack.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There is strong interest in leveraging reinforcement learning (RL) for information retrieval (IR) applications including search, recommendation, and advertising. Just in SIGIR-2020, the term “reinforcement learning” is mentioned in 46 different papers. It has also been reported that Internet companies like YouTube and Alibaba have started to gain competitive advantages from their RL-based search and recommendation engines. This full-day tutorial gives IR researchers and practitioners who have little or no experience with RL the opportunity to learn about the fundamentals of modern RL in a practical hands-on setting. Furthermore, some representative applications of RL in IR systems will be introduced and discussed.
 
-### Markdown
+## Material
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our repository can be found at [rl-starterpack](https://github.com/RL-Starterpack/rl-starterpack/).
 
-```markdown
-Syntax highlighted code block
+__TODO: Fill in links__
+Quicklinks:
+* Slides
+* RL Basics Exercise
+* DQN Exercise
+* Policy Gradient Exercise
 
-# Header 1
-## Header 2
-### Header 3
+## Schedule
+All times are UK times (GMT).
 
-- Bulleted
-- List
+09:30-10:30	RL Basics and Tabular Q-Learning
+10:30-10:45	Coffee Break
+10:45-11:45	Deep Q-Network (DQN)
+11:45-12:00	Coffee Break
+12:00-12:30	IR applications using DQN
+12:30-14:00	Lunch Break
+14:00-15:00	Policy Gradient (REINFORCE)
+15:00-15:15	Coffee Break
+15:15-15:45	Actor Critic
+15:45-16:00	Coffee Break
+16:00-17:00	IR applications using REINFORCE
+17:00-17:15	Outlook
 
-1. Numbered
-2. List
+## Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RL-Starterpack/rl-starterpack.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Questions? Please reach out to one of the tutorial organisers.
