@@ -18,7 +18,7 @@ Quicklinks:
 * Policy Gradient Exercise
 
 ## Schedule
-All times are UK times (GMT).
+Tuesday 24th November, 2020. All times are UK times (GMT).
 
 * 09:30-10:30	RL Basics and Tabular Q-Learning
 * 10:30-10:45	Coffee Break
