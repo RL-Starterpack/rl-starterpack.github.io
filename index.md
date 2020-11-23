@@ -57,7 +57,6 @@ Questions? Please reach out to one of the tutorial organisers.
 ##### Critical Voices
 
 - [Deep Reinforcement Learning Doesn't Work Yet (Alex Irpan)](https://www.alexirpan.com/2018/02/14/rl-hard.html)
-- [Reinforcement Learning never worked, and 'deep' only helped a bit (Himanshu Sahni)](https://himanshusahni.github.io/2018/02/23/reinforcement-learning-never-worked.html)
 - [The Policy of Truth (Ben Recht)](http://www.argmin.net/2018/02/20/reinforce/)
 - [Lessons Learned Reproducing a Deep Reinforcement Learning Paper (Amid Fish)](http://amid.fish/reproducing-deep-rl)
 
