@@ -1,7 +1,7 @@
-![Logo](bp_ai_labs_logo.png)
-
 ## Authors
-Alexander Kuhnle, Miguel Aroca-Ouellette, John Reid, Dell Zhang (Blue Prism AI Labs)
+Alexander Kuhnle, Miguel Aroca-Ouellette, John Reid, Dell Zhang
+
+![Logo](bp_ai_labs_logo.png)
 
 ## Description
 
