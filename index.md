@@ -9,9 +9,9 @@ There is strong interest in leveraging reinforcement learning (RL) for informati
 
 ## Material
 
-The repository for this tutorial can be found at [RL Starterpack](https://github.com/RL-Starterpack/rl-starterpack/).
+The complete repository for this tutorial can be found at [RL Starterpack](https://github.com/RL-Starterpack/rl-starterpack/).
 
-Quicklinks:
+### Quick Links:
 * Slides
 * [TQL Exercise](https://github.com/RL-Starterpack/rl-starterpack/blob/main/exercises/TQL.ipynb)
 * [DQN Exercise](https://github.com/RL-Starterpack/rl-starterpack/blob/main/exercises/DQN.ipynb)
