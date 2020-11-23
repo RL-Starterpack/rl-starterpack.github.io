@@ -1,3 +1,5 @@
+![Logo](bp_ai_labs_logo.png)
+
 ## Authors
 Alexander Kuhnle, Miguel Aroca-Ouellette, John Reid, Dell Zhang (Blue Prism AI Labs)
 
@@ -7,15 +9,14 @@ There is strong interest in leveraging reinforcement learning (RL) for informati
 
 ## Material
 
-Our repository can be found at [rl-starterpack](https://github.com/RL-Starterpack/rl-starterpack/).
-
-__TODO: Fill in links__
+The repository for this tutorial can be found at [RL Starterpack](https://github.com/RL-Starterpack/rl-starterpack/).
 
 Quicklinks:
 * Slides
-* RL Basics Exercise
-* [DQN Exercise](https://github.com/RL-Starterpack/rl-starterpack/blob/main/exercises/RL_Tutorial_DQN.ipynb)
-* Policy Gradient Exercise
+* [TQL Exercise](https://github.com/RL-Starterpack/rl-starterpack/blob/main/exercises/TQL.ipynb)
+* [DQN Exercise](https://github.com/RL-Starterpack/rl-starterpack/blob/main/exercises/DQN.ipynb)
+* [PG Exercise](https://github.com/RL-Starterpack/rl-starterpack/blob/main/exercises/PG.ipynb)
+* [AC Exercise](https://github.com/RL-Starterpack/rl-starterpack/blob/main/exercises/AC.ipynb)
 
 ## Schedule
 Tuesday 24th November, 2020. All times are UK times (GMT).
@@ -36,3 +37,33 @@ Tuesday 24th November, 2020. All times are UK times (GMT).
 ## Contact
 
 Questions? Please reach out to one of the tutorial organisers.
+
+## Additional Resources
+
+##### Introductory Material
+
+- [Spinning Up in Deep RL (OpenAI)](https://spinningup.openai.com/en/latest/index.html)
+- [Deep Reinforcement Learning Course (Thomas Simonini)](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
+- [Simple Reinforcement Learning with Tensorflow (Arthur Juliani)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+- [Deep Reinforcement Learning: Pong from Pixels (Andrej Karpathy)](http://karpathy.github.io/2016/05/31/rl/)
+- [An Outsider's Tour of Reinforcement Learning (Ben Recht)](http://www.argmin.net/2018/06/25/outsider-rl/)
+- Lilian Weng:
+    - [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
+    - [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
+    - [Implementing Deep Reinforcement Learning Models with Tensorflow + OpenAI Gym](https://lilianweng.github.io/lil-log/2018/05/05/implementing-deep-reinforcement-learning-models.html)
+    - and more...
+
+
+##### Critical Voices
+
+- [Deep Reinforcement Learning Doesn't Work Yet (Alex Irpan)](https://www.alexirpan.com/2018/02/14/rl-hard.html)
+- [Reinforcement Learning never worked, and 'deep' only helped a bit (Himanshu Sahni)](https://himanshusahni.github.io/2018/02/23/reinforcement-learning-never-worked.html)
+- [The Policy of Truth (Ben Recht)](http://www.argmin.net/2018/02/20/reinforce/)
+- [Lessons Learned Reproducing a Deep Reinforcement Learning Paper (Amid Fish)](http://amid.fish/reproducing-deep-rl)
+
+
+##### Books
+
+- [Reinforcement Learning - An Introduction (Sutton & Barto, 2018)](http://incompleteideas.net/book/RLbook2020.pdf)
+- [An Introduction to Deep Reinforcement Learning (Francois-Lavet et al., 30 Nov 2018)](https://arxiv.org/abs/1811.12560)
+
