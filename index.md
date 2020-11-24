@@ -1,6 +1,8 @@
 ## Authors
 Alexander Kuhnle, Miguel Aroca-Ouellette, John Reid, Dell Zhang
 
+_{alexander.kuhnle, miguel.aroca, john.reid, dell.zhang}[at]blueprism[dot]com_
+
 ![Logo](bp_ai_labs_logo.png)
 
 ## Description
@@ -39,7 +41,7 @@ Tuesday 24th November, 2020. All times are UK times (GMT).
 
 ## Contact
 
-Questions? Please reach out to one of the tutorial organisers.
+Questions? Feedback? Please reach out to one of the tutorial organisers using the emails listed at the top of this page.
 
 ## Additional Resources
 
