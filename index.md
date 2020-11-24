@@ -7,6 +7,8 @@ Alexander Kuhnle, Miguel Aroca-Ouellette, John Reid, Dell Zhang
 
 There is strong interest in leveraging reinforcement learning (RL) for information retrieval (IR) applications including search, recommendation, and advertising. Just in SIGIR-2020, the term “reinforcement learning” is mentioned in 46 different papers. It has also been reported that Internet companies like YouTube and Alibaba have started to gain competitive advantages from their RL-based search and recommendation engines. This full-day tutorial gives IR researchers and practitioners who have little or no experience with RL the opportunity to learn about the fundamentals of modern RL in a practical hands-on setting. Furthermore, some representative applications of RL in IR systems will be introduced and discussed.
 
+This tutorial is part of [Search Solutions 2020](https://irsg.bcs.org/SearchSolutions/2020/sse2020.php).
+
 ## Material
 
 The complete repository for this tutorial can be found at [RL Starterpack](https://github.com/RL-Starterpack/rl-starterpack/).
