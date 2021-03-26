@@ -27,20 +27,21 @@ The complete repository for this tutorial can be found at [RL Starterpack](https
 
 ## Schedule
 
-All times are UK times (GMT).
+The ECIR 2021 tutorial is taking place on March 28th, 2021.
+All times below are in BST (UTC+1).
 
-* 09:30-10:30	RL Basics and Tabular Q-Learning
-* 10:30-10:45	Coffee Break
-* 10:45-11:45	Deep Q-Network (DQN)
-* 11:45-12:00	Coffee Break
-* 12:00-12:30	IR applications using DQN
-* 12:30-14:00	Lunch Break
-* 14:00-15:00	Policy Gradient (REINFORCE)
-* 15:00-15:15	Coffee Break
-* 15:15-15:45	Actor Critic
-* 15:45-16:00	Coffee Break
-* 16:00-17:00	IR applications using REINFORCE
-* 17:00-17:15	Outlook
+* 08:00-09:00  RL Basics and Tabular Q-Learning
+* 09:00-09:30  Deep Q-Network (DQN) 1/2 (presentation)
+* 09:30-10:00  Coffee Break
+* 10:00-10:30  Deep Q-Network (DQN) 2/2 (hands-on)
+* 10:30-11:15  IR Applications using DQN
+* 11:15-13:15  Lunch Break (45 minutes extra)
+* 13:15-14:15  Policy Gradient (REINFORCE)
+* 14:15-15:15  IR Applications using REINFORCE
+* 15:15-15:45  Coffee Break
+* 15:45-16:15  Actor Critic
+* 16:15-16:45  Outlook
+* 16:45-17:15  Final Q&A
 
 ## Contact
 
