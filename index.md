@@ -1,8 +1,8 @@
 ## Authors
 
-Alexander Kuhnle, Miguel Aroca-Ouellette, John Reid, Dell Zhang, Murat Sensoy
+Alexander Kuhnle, Miguel Aroca-Ouellette, John Reid, Dell Zhang, Murat Sensoy, Anindya Basu
 
-_{alexander.kuhnle, miguel.aroca, john.reid, dell.zhang, murat.sensoy}[at]blueprism[dot]com_
+_{alexander.kuhnle, miguel.aroca, john.reid, dell.zhang, murat.sensoy, anindya.basu}[at]blueprism[dot]com_
 
 ![Logo](bp_ai_labs_logo.png)
 
