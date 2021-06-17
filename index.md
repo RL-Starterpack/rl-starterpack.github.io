@@ -10,7 +10,7 @@ _{alexander.kuhnle, miguel.aroca, john.reid, dell.zhang, murat.sensoy, anindya.b
 
 There is strong interest in leveraging reinforcement learning (RL) for information retrieval (IR) applications including search, recommendation, and advertising. Just in 2020, the term "reinforcement learning" was mentioned in more than 60 different papers published by ACM SIGIR. It has also been reported that Internet companies like Google and Alibaba have started to gain competitive advantages from their RL-based search and recommendation engines. This full-day tutorial gives IR researchers and practitioners who have no or little experience with RL the opportunity to learn about the fundamentals of modern RL in a practical hands-on setting. Furthermore, some representative applications of RL in IR systems will be introduced and discussed. By attending this tutorial, the participants will acquire a good knowledge of modern RL concepts and standard algorithms such as REINFORCE and DQN. This knowledge will help them better understand some of the latest IR publications involving RL, as well as prepare them to tackle their own practical IR problems using RL techniques and tools.
 
-This tutorial has been part of the [European Conference on Information Retrieval (ECIR) 2021](https://www.ecir2021.eu/tutorials/) and [Search Solutions 2020](https://irsg.bcs.org/SearchSolutions/2020/ss2020tutorials.php).
+This tutorial has been part of the [Special Interest Group on Information Retrieval (SIGIR) 2021](https://sigir.org/sigir2021/), the [European Conference on Information Retrieval (ECIR) 2021](https://www.ecir2021.eu/tutorials/) and [Search Solutions 2020](https://irsg.bcs.org/SearchSolutions/2020/ss2020tutorials.php).
 
 ## Material
 
@@ -27,21 +27,20 @@ The complete repository for this tutorial can be found at [RL Starterpack](https
 
 ## Schedule
 
-The ECIR 2021 tutorial is taking place on March 28th, 2021.
-All times below are in BST (UTC+1).
+As SIGIR 2021 is pre-recorded, once you have access to the tutorial video you can use the following timestamps to quickly navigate between sections:
 
-* 08:00-09:00  RL Basics and Tabular Q-Learning
-* 09:00-09:30  Deep Q-Network (DQN) 1/2 (presentation)
-* 09:30-10:00  Coffee Break
-* 10:00-10:30  Deep Q-Network (DQN) 2/2 (hands-on)
-* 10:30-11:15  IR Applications using DQN
-* 11:15-13:15  Lunch Break (45 minutes extra)
-* 13:15-14:15  Policy Gradient (REINFORCE)
-* 14:15-15:15  IR Applications using REINFORCE
-* 15:15-15:45  Coffee Break
-* 15:45-16:15  Actor Critic
-* 16:15-16:45  Outlook
-* 16:45-17:15  Final Q&A
+* 	[0:00] Intro
+* 	[5:18] RL Basics
+* 	[14:50] Multi-armed Bandits
+* 	[38:40] Tabular Q-Learning
+* 	[1:00:37] Deep Q-Learning
+* 	[1:15:23] IR applications using DQN
+* 	[1:42:36] Policy Gradient (REINFORCE)
+* 	[1:54:58] IR applications using REINFORCE
+* 	[2:50:26] Actor-Critic
+* 	[3:07:34] IR applications using Actor-Critic
+* 	[3:21:09] Recent developments & outlook for research
+
 
 ## Contact
 
