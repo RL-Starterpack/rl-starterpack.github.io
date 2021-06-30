@@ -1,8 +1,8 @@
 ## Authors
 
-Alexander Kuhnle, Miguel Aroca-Ouellette, John Reid, Dell Zhang, Murat Sensoy, Anindya Basu
+Alexander Kuhnle, Miguel Aroca-Ouellette, Anindya Basu, Murat Sensoy, John Reid, Dell Zhang
 
-_{alexander.kuhnle, miguel.aroca, john.reid, dell.zhang, murat.sensoy, anindya.basu}[at]blueprism[dot]com_
+_{alexander.kuhnle, miguel.aroca, anindya.basu, murat.sensoy, john.reid, dell.zhang}[at]blueprism[dot]com_
 
 ![Logo](bp_ai_labs_logo.png)
 
@@ -48,7 +48,7 @@ Questions? Feedback? Please reach out to one of the tutorial organisers using th
 
 ## Additional Resources
 
-##### Introductory Material
+##### Introductory Materials
 
 - [Spinning Up in Deep RL (OpenAI)](https://spinningup.openai.com/en/latest/index.html)
 - [Deep Reinforcement Learning Course (Thomas Simonini)](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
@@ -71,3 +71,7 @@ Questions? Feedback? Please reach out to one of the tutorial organisers using th
 
 - [Reinforcement Learning - An Introduction (Sutton & Barto, 2018)](http://incompleteideas.net/book/RLbook2020.pdf)
 - [An Introduction to Deep Reinforcement Learning (Francois-Lavet et al., 30 Nov 2018)](https://arxiv.org/abs/1811.12560)
+
+##### Papers
+...
+
