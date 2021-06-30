@@ -33,10 +33,10 @@ The complete repository for this tutorial can be found at [RL Starterpack](https
 
 As SIGIR 2021 is pre-recorded, once you have access to the tutorial video you can use the following timestamps to quickly navigate between sections:
 
-* 	[0:00] Intro
-* 	[5:18] RL Basics
-* 	[14:50] Multi-armed Bandits
-* 	[38:40] Tabular Q-Learning
+* 	[0:00:00] Intro
+* 	[0:05:18] RL Basics
+* 	[0:14:50] Multi-armed Bandits
+* 	[0:38:40] Tabular Q-Learning
 * 	[1:00:37] Deep Q-Learning
 * 	[1:15:23] IR applications using DQN
 * 	[1:42:36] Policy Gradient (REINFORCE)
