@@ -12,17 +12,17 @@ There is strong interest in leveraging reinforcement learning (RL) for informati
 
 This tutorial is featured in prestigious conferences [SIGIR-2021](https://sigir.org/sigir2021/tutorials/), [ECIR-2021](https://www.ecir2021.eu/tutorials/) and [SearchSolutions-2020](https://irsg.bcs.org/SearchSolutions/2020/ss2020tutorials.php).
 
-## Material
+## Materials
 
 The complete repository for this tutorial can be found at [RL Starterpack](https://github.com/RL-Starterpack/rl-starterpack/).
 
 ### Quick Links:
 
-Slides
+##### Presentation Slides
 * [RL Slides](https://github.com/RL-Starterpack/rl-starterpack/blob/main/slides/RL_Tutorial.pdf)
 * [RL for IR Slides](https://github.com/RL-Starterpack/rl-starterpack/blob/main/slides/RL_Tutorial_IR.pdf)
 
-Hands-on Exercises
+##### Hands-on Exercises
 * Bandit Exercise (coming soon)
 * [TQL Exercise](https://github.com/RL-Starterpack/rl-starterpack/blob/main/exercises/TQL.ipynb)
 * [DQN Exercise](https://github.com/RL-Starterpack/rl-starterpack/blob/main/exercises/DQN.ipynb)
