@@ -23,7 +23,7 @@ The complete repository for this tutorial can be found at [RL Starterpack](https
 * [RL for IR Slides](https://github.com/RL-Starterpack/rl-starterpack/blob/main/slides/RL_Tutorial_IR.pdf)
 
 ##### Hands-on Exercises
-* Bandit Exercise (coming soon)
+* [Bandit Exercise](https://github.com/RL-Starterpack/rl-starterpack/blob/main/exercises/Bandits.ipynb)
 * [TQL Exercise](https://github.com/RL-Starterpack/rl-starterpack/blob/main/exercises/TQL.ipynb)
 * [DQN Exercise](https://github.com/RL-Starterpack/rl-starterpack/blob/main/exercises/DQN.ipynb)
 * [PG Exercise](https://github.com/RL-Starterpack/rl-starterpack/blob/main/exercises/PG.ipynb)
