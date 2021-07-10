@@ -90,3 +90,6 @@ Questions? Feedback? Please reach out to one of the tutorial organisers using th
 - [Off-policy Learning in Two-stage Recommender Systems (WWW'20)](https://dl.acm.org/doi/10.1145/3366423.3380130)
 - [Reinforcement Recommendation with User Multi-aspect Preference (WWW'21)](https://dl.acm.org/doi/10.1145/3442381.3449846)
 - [Self-Supervised Reinforcement Learning for Recommender Systems (SIGIR'20)](https://dl.acm.org/doi/10.1145/3397271.3401147)
+
+##### Workshops
+- [DRL4IR Workshop at SIGIR](https://drl4ir.github.io/)
