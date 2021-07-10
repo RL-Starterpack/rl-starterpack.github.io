@@ -77,5 +77,16 @@ Questions? Feedback? Please reach out to one of the tutorial organisers using th
 - [An Introduction to Deep Reinforcement Learning (Francois-Lavet et al., 30 Nov 2018)](https://arxiv.org/abs/1811.12560)
 
 ##### Papers
-...
-
+- [DRN: A Deep Reinforcement Learning Framework for News Recommendation (WWW'18)](https://dl.acm.org/doi/10.1145/3178876.3185994)
+- [Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning (KDD'18)](https://dl.acm.org/doi/10.1145/3219819.3219886)
+- [Jointly Learning to Recommend and Advertise (KDD'20)](https://dl.acm.org/doi/10.1145/3394486.3403384)
+- [Reinforcement Learning to Rank with Markov Decision Process (SIGIR'17)](https://dl.acm.org/doi/10.1145/3077136.3080685)
+- [Adapting Markov Decision Process for Search Result Diversification (SIGIR'17)](https://dl.acm.org/doi/10.1145/3077136.3080775)
+- [Multi Page Search with Reinforcement Learning to Rank (ICTIR'18)](https://dl.acm.org/doi/10.1145/3234944.3234977)
+- [Reinforcement Learning to Rank with Pairwise Policy Gradient (SIGIR'20)](https://dl.acm.org/doi/10.1145/3397271.3401148)
+- [A Reinforcement Learning Framework for Relevance Feedback (SIGIR'20)](https://dl.acm.org/doi/10.1145/3397271.3401099)
+- [IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models (SIGIR'17)](https://dl.acm.org/doi/10.1145/3077136.3080786)
+- [Top-K Off-Policy Correction for a REINFORCE Recommender System (WSDM'19)](https://dl.acm.org/doi/10.1145/3289600.3290999)
+- [Off-policy Learning in Two-stage Recommender Systems (WWW'20)](https://dl.acm.org/doi/10.1145/3366423.3380130)
+- [Reinforcement Recommendation with User Multi-aspect Preference (WWW'21)](https://dl.acm.org/doi/10.1145/3442381.3449846)
+- [Self-Supervised Reinforcement Learning for Recommender Systems (SIGIR'20)](https://dl.acm.org/doi/10.1145/3397271.3401147)
